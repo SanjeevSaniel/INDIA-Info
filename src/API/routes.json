@@ -1,0 +1,195 @@
+[
+    {
+        "id": 1,
+        "number": 100,
+        "source": "Raurkela New Bus Stand",
+        "destination": "Birsa Munda Hockey Stadium",
+        "passBy": "Ring Road, IGH, Sector, BPUT",
+        "class": "AC"
+    },
+    {
+        "id": 2,
+        "number": 101,
+        "source": "Raurkela New Bus Stand",
+        "destination": "Airport",
+        "passBy": "Udit Nagar, Hanuman Vatika Chowk, Chhend",
+        "class": "AC"
+    },
+    {
+        "id": 3,
+        "number": 102,
+        "source": "Vedvyas",
+        "destination": "Jhirpani",
+        "passBy": "Panposh, Chhend Chowk, Koel Nagar",
+        "class": "AC"
+    },
+    {
+        "id": 4,
+        "number": 103,
+        "source": "Raurkela New Bus Stand",
+        "destination": "Panposh",
+        "passBy": "Udit Nagar, Hanuman Vatika Chowk, Chhend",
+        "class": "AC"
+    },
+    {
+        "id": 5,
+        "number": 104,
+        "source": "Raurkela New Bus Stand",
+        "destination": "Jhirpani",
+        "passBy": "Sector-2, NIT, Jagda Chowk",
+        "class": "AC"
+    },
+    {
+        "id": 6,
+        "number": 105,
+        "source": "Raurkela New Bus Stand",
+        "destination": "Rajgangpur",
+        "passBy": "NH",
+        "class": "AC"
+    },
+    {
+        "id": 7,
+        "number": 106,
+        "source": "Raurkela New Bus Stand",
+        "destination": "Biramitrapur",
+        "passBy": "Ring Road, NH",
+        "class": "AC"
+    },
+    {
+        "id": 8,
+        "number": 107,
+        "source": "Raurkela New Bus Stand",
+        "destination": "Bisra",
+        "passBy": "Bondamunda",
+        "class": "AC"
+    },
+    {
+        "id": 9,
+        "number": 122,
+        "source": "OSRTC New Bus Stand",
+        "destination": "Depot",
+        "direction": "S",
+        "passBy": "Chhend Chowk, Panposh Chowk",
+        "class": "AC"
+    },
+    {
+        "id": 10,
+        "number": 110,
+        "source": "Raurkela New Bus Stand",
+        "destination": "Kalunga",
+        "passBy": "Raghunathpali",
+        "class": "AC"
+    },
+    {
+        "id": 11,
+        "number": 113,
+        "source": "Raurkela New Bus Stand",
+        "destination": "Ushra",
+        "passBy": "NH",
+        "class": "AC"
+    },
+    {
+        "id": 12,
+        "number": 114,
+        "source": "Raurkela New Bus Stand",
+        "destination": "Nuagaon",
+        "passBy": "Hatibari",
+        "class": "AC"
+    },
+    {
+        "id": 13,
+        "number": 115,
+        "source": "Raurkela New Bus Stand",
+        "destination": "Potab",
+        "passBy": "Hatibari",
+        "class": "AC"
+    },
+    {
+        "id": 14,
+        "number": 116,
+        "source": "Raurkela New Bus Stand",
+        "destination": "Loram",
+        "passBy": "NIT, Jagda Chowk, Khutagaon, Sorda",
+        "class": "AC"
+    },
+    {
+        "id": 15,
+        "number": 117,
+        "source": "Raurkela New Bus Stand",
+        "destination": "Jaraikela ",
+        "passBy": "Bondamunda ,Bisra",
+        "class": "AC"
+    },
+    {
+        "id": 16,
+        "number": 109,
+        "source": "Raurkela New Bus Stand",
+        "destination": "Lathikata ",
+        "passBy": "NH",
+        "class": "AC"
+    },
+    {
+        "id": 17,
+        "number": 111,
+        "source": "Raurkela New Bus Stand",
+        "destination": "Bonaigarh ",
+        "passBy": "",
+        "class": "AC"
+    },
+    {
+        "id": 18,
+        "number": 112,
+        "source": "Raurkela New Bus Stand",
+        "destination": "Lahunipara",
+        "passBy": "",
+        "class": "AC"
+    },
+    {
+        "id": 19,
+        "number": 118,
+        "source": "Raurkela New Bus Stand",
+        "destination": "Salangabahal",
+        "passBy": "Kuarmunda, Biramitrapur",
+        "class": "AC"
+    },
+    {
+        "id": 20,
+        "number": 119,
+        "source": "Raurkela New Bus Stand",
+        "destination": "Bargaon",
+        "passBy": "Rajgangpur Bypass, Kutra",
+        "class": "AC"
+    },
+    {
+        "id": 21,
+        "number": 120,
+        "source": "Kalunga",
+        "destination": "Gurundia",
+        "passBy": "Disco Chowk, Soldega",
+        "class": "AC"
+    },
+    {
+        "id": 22,
+        "number": 121,
+        "source": "DAV Pond",
+        "destination": "Radio Station",
+        "passBy": "Basanti Colony, New Bus Stand, NIT",
+        "class": "AC"
+    },
+    {
+        "id": 23,
+        "number": 122,
+        "source": "OSRTC Bus Stand",
+        "destination": "Fertilizer",
+        "passBy": "",
+        "class": "AC"
+    },
+    {
+        "id": 24,
+        "number": 108,
+        "source": "Raurkela New Bus Stand",
+        "destination": "Nuagaon",
+        "passBy": "Jagda Chowk, Jhirpani, Khuntagaon",
+        "class": "AC"
+    }
+]
